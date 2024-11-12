@@ -404,8 +404,7 @@ body:hover .visually-hidden button {
   min-height: 20px;
   padding: 19px;
   margin-bottom: 20px;
-  // background-color: #f5f5f5;
-  background-color: #f0faff
+  background-color: #f5f5f5;
   border: 1px solid #e3e3e3;
   border-radius: $border-radius;
   box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
@@ -446,7 +445,7 @@ body:hover .visually-hidden button {
   margin-top: -150px;
   min-height: 0;
   z-index: 9999;
-  background: #f0faff;
+  background: #fff;
   border: 1px solid $border-color;
   border-radius: $border-radius;
   box-shadow: $box-shadow;
