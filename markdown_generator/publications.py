@@ -66,7 +66,7 @@ for row, item in publications.iterrows():
     print(item)
     
     md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
-    html_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
+    html_filename = str(item.pub_date) + "-" + item.url_slug
     year = item.pub_date[:4]
     
     ## YAML variables
@@ -75,7 +75,7 @@ for row, item in publications.iterrows():
     
     md += """collection: publications"""
     
-    md += """\npermalink: /_publications/""" + html_filename
+    md += """\npermalink: /publication/""" + html_filename
     
     if len(str(item.excerpt)) > 5:
         md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
