@@ -96,8 +96,8 @@ for row, item in publications.iterrows():
     if len(str(item.paper_url)) > 5:
         md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
 
-    if len(str(item.journal_url)) > 5:
-        md += "\n<a href='" + item.journal_url + "'>Read paper here</a>\n" 
+    # if len(str(item.journal_url)) > 5:
+    #     md += "\n<a href='" + item.journal_url + "'>Read paper here</a>\n" 
 
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"
