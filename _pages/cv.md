@@ -7,7 +7,7 @@ redirect_from: /resume
 author_profile: yes
 ---
 
-<u><a href="https://annacorriveau.github.io/files/CV_Corriveau.pdf">View/Download as PDF</a></u>
+<a href="https://annacorriveau.github.io/files/CV_Corriveau.pdf">View/Download as PDF</a>
 
 <object data="https://annacorriveau.github.io/files/CV_Corriveau.pdf" type="application/pdf" width="400px" height="570px">
     <embed src="https://annacorriveau.github.io/files/CV_Corriveau.pdf">
