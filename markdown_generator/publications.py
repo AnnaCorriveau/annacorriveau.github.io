@@ -34,7 +34,7 @@ import pandas as pd
 
 # In[3]:
 
-publications = pd.read_csv("publications.csv", sep="\t", header=0)
+publications = pd.read_csv("publications.csv", sep=",", header=0)
 publications
 
 
@@ -63,6 +63,7 @@ def html_escape(text):
 
 import os
 for row, item in publications.iterrows():
+    print(item)
     
     md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
     html_filename = str(item.pub_date) + "-" + item.url_slug
