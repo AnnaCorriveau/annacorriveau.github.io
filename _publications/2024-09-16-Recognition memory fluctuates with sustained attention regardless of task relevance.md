@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2024-09-16-Recognition memory fluctuates with sustained attention regardless of task relevance
 date: 2024-09-16
 venue: 'Psychonomic Bulletin &amp; Review'
-paperurl: 'http://annacorriveau.github.io/files/SustainedAttention_RecognitionMemory_PBR.pdf'
 citation: 'Corriveau, A., Chao, A. F., deBettencourt, M. T., &amp; Rosenberg, M. D. (2024). Recognition memory fluctuates with sustained attention regardless of task relevance. Psychonomic Bulletin &amp; Review. https://doi.org/10.3758/s13423-024-02560-x'
 ---
 
