@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2023-01-01-Sustained neural representations of personally familiar people and places during cued recall
 date: 2023-01-01
 venue: 'Cortex'
-citation: 'Corriveau, A., Kidder, A., Teichmann, L., Wardle, S. G., &amp; Baker, C. I. (2023). Sustained neural representations of personally familiar people and places during cued recall. Cortex, 158, 71–82.'
 ---
 
 <a href='http://annacorriveau.github.io/files/SustainedRepresentations_Cortex.pdf'>Download paper here</a>
